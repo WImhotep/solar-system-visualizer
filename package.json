@@ -1,0 +1,15 @@
+{
+  "name": "solar-system-visualizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^12.0.0",  // 或者最新版本
+    "react": "^17.0.0",  // 或者根据需要的版本
+    "react-dom": "^17.0.0"  // 或者根据需要的版本
+  }
+}
